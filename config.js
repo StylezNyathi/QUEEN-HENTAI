@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['263717007625', 'Dinuwa Official²⁰²³', true],
-  ['263717007625', 'Dinuwa Official²⁰²³', true], 
+  ['263717007625', 'Tej Stylez', true],
+  ['263717007625', 'Tej Stylez', true], 
   [''] 
 ] //Number of owners
 
@@ -60,7 +60,7 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.rwait = '❤️'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
